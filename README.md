@@ -1,3 +1,4 @@
 # wp
 WP Theme
-MV
+Note à l'attention des utilisateurs :
+Theme WOrdpress
